@@ -1,5 +1,37 @@
 [
   {
+    "id": "71e059787ff3",
+    "title": "Newsom campaigns with New Hampshire Democrats ahead of midterms",
+    "source": "The Hill",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://thehill.com/homenews/campaign/6156885-newsom-nh-campaign-stops/",
+    "published": "2026-10-18T20:25:39+00:00",
+    "published_display": "Oct 18, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://thehill.com/homenews/campaign/6156885-newsom-nh-campaign-stops/",
+    "bias": "C",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "fbc79d323f89",
+    "title": "\u2018He\u2019s not screwing around\u2019: Gavin Newsom warns Trump is trying to rig midterms",
+    "source": "Democracy Docket",
+    "source_url": "https://www.democracydocket.com",
+    "source_domain": "www.democracydocket.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekFWZ0dRTWZQakNyNm8yMzMtaENBT3ZFT0ljY1prMXZQamp4Z0pFNFRnN2d1b3kwQnhLTF9CSGxpUFdiVVZpUEx2cEpMV3VxamZmZ1dmaDNia1ZJSDVLU0h2enVIYnFsVWJ3U2tUbHRHZmdOZ2FEYU1LSHptcllTaFd0RmNCOTBvUlhwZUpOcFRtQS1GYTRqNnA0dXVfZDg4NVVRUUx3a3NHRFhfZlpOSFhweDMxUDVBMFJ3?oc=5",
+    "published": "2026-10-18T19:23:04+00:00",
+    "published_display": "Oct 18, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "",
+    "bias": "?",
+    "topic": "Military",
+    "region": "US"
+  },
+  {
     "id": "2b0d4b120abd",
     "title": "California Governor Gavin Newsom&#x27;s childhood home in San Francisco is up for sale at $4.5 million",
     "source": "The Economic Times",
@@ -12237,6 +12269,22 @@
     "real_url": "",
     "bias": "C",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "86dec2b0f8dd",
+    "title": "AAHOA welcomes Gov. Newsom\u2019s weto of hotel immigration bill",
+    "source": "New India Abroad",
+    "source_url": "https://www.newindiaabroad.com",
+    "source_domain": "www.newindiaabroad.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDZsNTRPcUM0YlNMZTN0dVliRkNaU0lXd202SW1YUkhpZEV1VEtHU0ZwVm9iRjBOS2VpYVk1WHlVZjc0NnhiUTR4ZHptRDNvLTdsT0pRVEtpejZ1Ny10MkxrYzZERW5KMUdKekNzSGlONjFndXExNzNERDRfSjdLeHQ4S2NxTEVfVXpwOUlpVGlydTcxWGVyNzAwYm12bTkxY0F3?oc=5",
+    "published": "2026-10-04T20:39:01+00:00",
+    "published_display": "Oct 04, 2026",
+    "query": "Newsom immigration",
+    "image": "",
+    "real_url": "",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
