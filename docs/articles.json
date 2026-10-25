@@ -16,6 +16,22 @@
     "region": "US"
   },
   {
+    "id": "b5eb3ab572a7",
+    "title": "AOC, Newsom and Jeffries swing through California to help Democrats in tight races",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcW1tQ3VYQTQ2R2hLcU5hSnFZNXozNUV5WkdfT0NBT3BQMWtrR0lDN0prZUlDcFNWN1paYWNWOWQ0VXhrcF9GOHhIVWVQY0hWdXhEZXlra255ems5T0ttaVFxaXVDMHU4WndvdXU4TE5DX0hfRWpJcmpQdXYwNGJmaW1YVUd3cGVMdWRaa1hJajNOeEIwbUd5QTZFMWctYy0zbm5IZG9INmJwVHZHRU9mWFU3NHh2RTV2bTlPU1R1anVlcVBDc0Y4VA?oc=5",
+    "published": "2026-10-24T20:23:00+00:00",
+    "published_display": "Oct 24, 2026",
+    "query": "Newsom Democrat",
+    "image": "",
+    "real_url": "",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "a83ca8ab5c01",
     "title": "California District Attorneys Association Opposes Reported Plan for Mass Commutation of Death Sentences",
     "source": "Edhat",
@@ -29,6 +45,22 @@
     "real_url": "",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "c7d48efe1c5b",
+    "title": "Ex-White House Press Sec. issues blunt challenge to Newsom, Bass: \u2018Maybe they should call\u2019",
+    "source": "New York Post",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://nypost.com/2026/10/24/us-news/karoline-leavitt-slams-bass-newsom-for-not-working-with-trump/",
+    "published": "2026-10-24T18:33:24-04:00",
+    "published_display": "Oct 24, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://nypost.com/2026/10/24/us-news/karoline-leavitt-slams-bass-newsom-for-not-working-with-trump/",
+    "bias": "LR",
+    "topic": "Domestic",
     "region": "US"
   },
   {
