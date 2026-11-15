@@ -1,5 +1,21 @@
 [
   {
+    "id": "5c2613d61b1b",
+    "title": "With or with out Trump, California is ready",
+    "source": "The Express Tribune",
+    "source_url": "https://tribune.com.pk",
+    "source_domain": "tribune.com.pk",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEkwdmVxbEtwNVNISFBydE9nU3IwZ0dockliVFZiUE1LWW11QmQwYm5RdXhFOHc0RkRsOU43VHlGYWRNbGprMEFVTUc3V0c2cDg1XzlHQ3pHMEEzY3FvRVNldGxyTV9uZ0hHVHRWUDh3MTl2S3RBYzVCaldoc1VTM01hcUxVUdIBjgFBVV95cUxOdVBMeDFpUnVQQ0g0RV9EbEQ0VjhXV0I0X1J2a0NWeTU0Yk9mX1FQbWdGcHVyZ0huaUxianlIbXpFdXF5WGMzODRUaldNTnNwLXJ3SGo2NlRqNFpCV2RBOVBOZ2JaWUpwTFhSN0xONHpxb1ZIV2Y4cjdhRXgzOTU1LXdXVGZZTHFNbU5sVGxB?oc=5",
+    "published": "2026-11-15T07:05:16+00:00",
+    "published_display": "Nov 15, 2026",
+    "query": "Newsom Democrat",
+    "image": "",
+    "real_url": "",
+    "bias": "C",
+    "topic": "General",
+    "region": "Asia"
+  },
+  {
     "id": "b383c137948f",
     "title": "\u201cGovernor so incompetent and insensitive\u201d: Trump slams Gavin Newsom over plan to spare all California death row inmates from execution",
     "source": "AOL News",
@@ -284,6 +300,22 @@
     "image": "",
     "real_url": "",
     "bias": "LR",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "c2df4222d049",
+    "title": "Trump Fails to Mention Flight Chaos in First Truth SocialPost in More Than 16 Hours",
+    "source": "Mediaite",
+    "source_url": "https://www.mediaite.com",
+    "source_domain": "www.mediaite.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS1RrWEMwNWNvQXQycXpsTVlqMHJQS1Z6MmZ1RjIxb1JTWGY5SFdPOExiYmxfRk8yVndRZDRoQm05MDJHQi1GeGgwUXMzeXNKbUM1dFVsREVHOVFwSm9aMFdXYkloSW42RlBhXzRPLXYtWjkxVGVhaWp0LXh1Skx2eEtVVVo2Vm5pYlJiRW11QUktU0I1U1RiMGs1aUhoR1VvTW1NRDM0VzdwLU9rZ3ZHTHVLdFl3eGpYRDdRODlJMW1iQQ?oc=5",
+    "published": "2026-11-14T15:28:00+00:00",
+    "published_display": "Nov 14, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "",
+    "bias": "?",
     "topic": "General",
     "region": "US"
   },
@@ -1552,6 +1584,22 @@
     "region": "Asia"
   },
   {
+    "id": "22bb64f23817",
+    "title": "Gavin Newsom crashes COP31 in Turkey, blasting Trump for absence",
+    "source": "News24",
+    "source_url": "https://www.news24.com.au",
+    "source_domain": "www.news24.com.au",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeWNXd3JsdDBWeUx4Vmh6SGpLV3ZrVVlTRUF4OW5OanhpTHdNM2c5ZFRYXzQ4QTI3cmtBOFU1R2tHREMxX3dJTjFoN0Q1NmtuTmRLWFJWRDlLYVBDVHY3MmpsZEFpTXp4WjYzcmtGclpfU3c2Y3NVTzY4WnlzN2FMUG5TWTJ4Z2Z6Ni1VLWJwYngzby02aTZXeVRyc0FzdlJIV2pXTzZkSnFNSVFXelN3ZVNRUDQwWnhIdFRMd1RVMklVN04ySmxIeFA3ZU5aTmZBcFBfVGVwYS1qcURHQXpQc3ZRRdIB6AFBVV95cUxOVEZGTFFBNVF5dzdSQkdhT25pVkdWSVZuN21MWmtwU3ZzMy05ZzVfNFBUSVB0U2tfaVlLWVNiTzhod0xIdUpiaERWeGZqVXE2VElpbE5UM3Vfcl9EcUtOT0QxaGJaX05XLWU3MU94bWxocG1zaG53UUEzZlJ0TDZRZ25kbHRDMThTakVrcy1BZld0cFlMNk9JSF9ra0wtZklYVGtUeVU4ZlVaRy1qMXJnVV9DUHNxWWp0OHV4aXdZcVA0RlRraGJaWVk4UWpkaFZpTmhOaUN6Z3c1RkRrVjU5OGxLenlMenJX?oc=5",
+    "published": "2026-11-13T08:02:25+00:00",
+    "published_display": "Nov 13, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "",
+    "bias": "?",
+    "topic": "General",
+    "region": "Asia"
+  },
+  {
     "id": "1b8862b38c71",
     "title": "&#x27;We shouldn&#x27;t be here&#x27;: California victims&#x27; families push back against Newsom",
     "source": "ABC10",
@@ -2701,6 +2749,22 @@
     "real_url": "",
     "bias": "LL",
     "topic": "Military",
+    "region": "US"
+  },
+  {
+    "id": "4c97ae9df82f",
+    "title": "New poll shows Rubio, Ossoff as leading 2028 election hopefuls",
+    "source": "USA Today",
+    "source_url": "https://www.usatoday.com",
+    "source_domain": "www.usatoday.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhtX1ZhcDJMY3d6ZUQyaE5Kc3VPYmpQcV9URnJLWUNpLTZ1UE9yLUFrSU1BUW9FdGxhVlMza09ySjk0V2FCS2FfajE3RWthUDZFM1BQSjNVcWZ1VWJXc3BZc2huOWJ4X3RSMVNqREpiNEZ4ZVZ5Z1NLZFFRd2l3TnRRTktrWnFBblFFQmV2THNlV1RyRGhfMDItenhwa29nUmxabDk0eURwdzIycVdrMk1MZmZNM3hrR25hTTFEMmNPclhtZmhkMQ?oc=5",
+    "published": "2026-11-12T14:16:00+00:00",
+    "published_display": "Nov 12, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "",
+    "bias": "C",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
